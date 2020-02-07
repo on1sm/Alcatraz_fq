@@ -4,7 +4,7 @@
 ###  然后下一个。
 ###  Android、Mac、Windows相对简单，在我的GitHub中找到shadowsocksr这个repo，进去找适合自己的平台的release下载即可。
 ##   算了，我放出来作者大神的账号地址，对了，软件作者是一位小姐姐，我哭了
-##   这是人间的repo[作者小姐姐](https://github.com/shadowsocksrr)
+##   这是女神小姐姐的repo[作者小姐姐](https://github.com/shadowsocksrr)
 ###  然后看下面的图：（以shadowrocket为例子）
    ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/4.jpg)
   
