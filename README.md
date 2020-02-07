@@ -3,9 +3,9 @@
 ###  首先要获得一个有shadowrocket、quanmult、potato、i2Ray等软件的账号，后台回复0x05取得账号密码。
 ###  然后下一个。
 ###  Android、Mac、Windows相对简单，在我的GitHub中找到shadowsocksr这个repo，进去找适合自己的平台的release下载即可。
-##   算了，我放出来作者大神的账号地址，对了，软件作者是一位小姐姐，我哭了
-##   这是女神小姐姐的repo[作者小姐姐](https://github.com/shadowsocksrr)
-##   里面已经没有了，被迫舆论压力已经删除源码了，这个才是下载的地方[点我进入repo](https://github.com/MrxWilliam/Z_apps)
+     算了，我放出来作者大神的账号地址，对了，软件作者是一位小姐姐，我哭了
+     这是女神小姐姐的repo[作者小姐姐](https://github.com/shadowsocksrr)
+##   小姐姐的repo里面已经没有了，被迫舆论压力已经删除源码了，这个才是下载的地方[点我进入repo](https://github.com/MrxWilliam/Z_apps)
 ###  然后看下面的图：（以iOS端shadowrocket为例子）
    ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/4.jpg)
   
