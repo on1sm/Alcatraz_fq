@@ -6,13 +6,13 @@
 ###  算了，我放出来作者大神的账号地址，对了，软件作者是一位小姐姐，我哭了
 ###  这是女神小姐姐的主页[作者小姐姐](https://github.com/shadowsocksrr)致敬~
 ##   小姐姐的repo里面已经没有了，被迫舆论压力已经删除源码了，这个才是下载的地方[点我进入repo](https://github.com/MrxWilliam/Z_apps)
-###  然后看下面的图：（以iOS端shadowrocket为例子）
+#  然后看下面的图：（以iOS端shadowrocket为例子）
    ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/4.jpg)
   
 ###  支持复制ssr://或者ss://开头的链接来导入，挺方便的，这也是比较方便的方法
    ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/5.jpg)
-
-###  在这里再放上安卓端的实例，看图即可：
+----------------------
+#  在这里再放上安卓端的实例，看图即可：
    ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/1.jpg)
    ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/2.jpg)
    ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/33.jpg)
