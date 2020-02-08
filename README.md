@@ -12,10 +12,16 @@
 ###  支持复制ssr://或者ss://开头的链接来导入，挺方便的，这也是比较方便的方法
    ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/5.jpg)
 ----------------------
-#  在这里再放上安卓端的实例，看图即可：
+#  在这里再放上安卓端的实例，看图即可：对于自己写IP和密码之类的，跟ss类似，一会下面蓝色的是ss
    ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/1.jpg)
    ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/2.jpg)
-   ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/33.jpg)
+   ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/33.png)
+###  或者你要用ss，这个是ss，然后也有链接导入，也有自己配置
+   ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/s1.jpg)
+   ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/s2.jpg)
+   ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/s3.jpg)
+   ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/s4.jpg)
+   ![图没了](https://github.com/MrxWilliam/Z_cangku/blob/master/s5.jpg)
 
 ###  节点的话，过两天我会补出来更多，今天仅放两个2月8日更新：
 ```
